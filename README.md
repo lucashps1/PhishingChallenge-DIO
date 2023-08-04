@@ -14,6 +14,3 @@ Configurações:
 - E por último escrever a URL do site desejado: http://facebook.com
 
   Após este passo-a-passo vai aparecer um IP onde ao usar ferramentas para escondé-lo e enviar ao usúario os dados aparecerão na tela do terminal ou em um arquivo .txt os dados digitados pelo usuário.
-
-  Exemplos:
-  
